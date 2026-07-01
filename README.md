@@ -1,3 +1,8 @@
+<p align="justify">
+Welcome to my GitHub! I'm <strong>Muhammad Asim Khan</strong>, an IT graduate from Bahria University, Karachi, with a strong interest in web development and modern technologies. I am currently focused on becoming a full stack developer by learning front end development, back end development, and building practical projects that strengthen my problem solving skills. I am also exploring AI and other emerging technologies while continuously improving my craft. My goal is to build high quality software, contribute to meaningful projects, and grow as a developer in the international tech industry.
+</p>
+<p></p>
+
 <div align="justify">
 
 <a href="">
@@ -26,10 +31,6 @@
 
 </div>
 <p></p>
-<p align="justify">
-Welcome to my GitHub! I'm <strong>Muhammad Asim Khan</strong>, an IT graduate from Bahria University, Karachi, with a strong interest in web development and modern technologies. I am currently focused on becoming a full stack developer by learning front end development, back end development, and building practical projects that strengthen my problem solving skills. I am also exploring AI and other emerging technologies while continuously improving my craft. My goal is to build high quality software, contribute to meaningful projects, and grow as a developer in the international tech industry.
-</p>
-
 
 ## TECH STACK
 
